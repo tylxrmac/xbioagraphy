@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+* {
+  margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    background-color: #2A2525;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 25px;
+}
+
+.searchbar label{
+  color:white
+}
+
+
+.hero {
+  background-image: url("https://assets.codepen.io/7590068/x+hero+image.2.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+h1{
+  color: whitesmoke;
+  }
+
+
+
+.title{
+  position: absolute;
+  right: 300px;
+  bottom:400px;
+  color: white;
+  background:#09506A ;
+  width: 350px;
+  height:200px;
+}
+.title2{
+  position: absolute;
+  right: 300px;
+  bottom:369px;
+  color: white;
+  background:#09506A ;
+  width: 130px;
+  height:22px;
+}
+
+.title h1 {
+  font-size:60px;
+  margin-left: 15px;
+  font-family: 'Libre Bodoni', serif;
+  margin-top: -35px
+ 
+ }
+
+button{
+  background-color:orange;
+  padding:10px;
+  border-radius: 50px;
+ color: whitesmoke;
+ 
+}
+
+.card button {
+  display: block;
+  margin: 50px auto;
+  
+}
+  
+
+
+.title p{
+  font-size: 25px;
+  padding: 7px;
+  margin-left: -8px;
+  color:#09506A; 
+  margin-top: 8.5px;
+  font-family: 'Raleway', sans-serif;}  
+
+
+.title p2{
+  font-size: 20px;
+  color: Whitesmoke;
+  font-family: 'Raleway', sans-serif;
+  
+}
+
+ h3{
+  color:  #2A2525;
+  text-align: center;
+   padding-top: 50px;
+   padding-bottom: 30px;
+ font-size: 65px;
+font-family: 'Libre Bodoni', serif;
+}
+
+
+.card1 h8{
+float: right ;
+padding-right: 145px;
+padding-top: 40px;
+color:#92c6e5;
+  font-size: 25px
+}
+
+p {
+  color: white;
+   line-height: 1.3;
+ }
+
+.card-text {
+  padding: 15px;
+}
+
+.card1 {
+  margin: 0 auto;
+}
+
+.card1 img{
+  width: 367.5px
+}
+
+.title3{
+  
+  width: 315px;
+  height: 100px;
+  float: right;
+  margin-right: 70px;
+  color: white;
+ margin-top: -380px;
+  font-family: 'Poppins', sans-serif;
+  } 
+
+.title3 p{
+  font-size: 15px
+}
+
+
+
+section{
+  background-color: white;
+}
+
+section div{
+  margin-top:30px;
+  width: 810px;
+  height: 469px;
+  background-color:#2A2525;
+  margin-left:200px;
+}
+
+h5{
+  color:  #2A2525;
+  text-align: center;
+   margin-top: 35px;
+  font-size: 65px;
+font-family: 'Libre Bodoni', serif;
+}
+
+section2 {
+  position: relative;
+height: 650px;
+  background-color: lightgray;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center
+}
+
+.card {
+  height:550px;
+  width: 300px;
+  margin-top:40px;
+ border:15px solid lightgray;
+ background-color:#2A2525;
+
+}
+.card p{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.card img {
+  width: 300px;
+  height: 250px;
+   margin-top: 20px
+}
+
+h4{
+  text-align: center;
+  color: #92c6e5;
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: 'Libre Bodoni', serif;
+ }
+
+ p4{
+  color: whitesmoke;
+   font-size: 15px;
+   padding: 20px
+  
+ }
+
+h6{
+  color: #2A2525;
+  font-size:65px;
+  text-align: center;
+  margin-top: 30px ;
+  font-family: 'Libre Bodoni', serif;
+}
+
+section3 img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ padding: 15px;
+ 
+}
+
+
+h7{
+  color:#f2f2f2;
+  font-size: 70px;
+  position: center
+}
+
+
+ .container {
+  background-color:#09507a;
+  text-align:center;
+  color: orange;
+ }
+.container img{
+width: 100%;
+}
+
+.container h1{
+  color:#92c6e5;
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;  
+}
+
+.container2{
+  background-color: #484343;
+  position:relative;
+   height:200px}
+
+.container2 p{
+  text-align: right;
+  margin-right: 200px;
+  
+  
+}
+
+.container h1{
+  padding-top:50px
+    
+}
+
+.container3{
+  width: 700px;
+  height: 200px;
+  margin-left: 200px
+}
+
+h8{
+ font-family: 'Libre Bodoni', serif;
+
+}
+
+.container p{
+  font-size: 20px;
+    padding-top:20px;
+    font-family: 'Poppins', sans-serif;  
+}
+
+h2{
+  padding-top:5px;
+  font-family: 'Poppins', sans-serif;  
+}
+
+
+.container3 p{
+  padding: 20px;
+  font-size:20px;
+ font-family: 'Poppins', sans-serif;
+}
+
+.title4{
+  background-color:#92c6e5 ;
+  Width: 900px}
+ 
+.txtover { 
+  position:relative; } 
+
+.txtover figcaption { 
+  position:absolute; 
+  color: whitesmoke; 
+  bottom:40px; 
+  left:0;
+font-family: 'Libre Bodoni', serif;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  font-size: 100px
+ }
+
+.container4{
+  width: 60px;
+  display: flex;
+ margin:10px
+  
+
+      
+    
+}
